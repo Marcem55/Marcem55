@@ -7,7 +7,7 @@
 
 
 
-    HTML5, CSS3, JavaScript, SASS, ReactJS, Redux, NodeJS, Express, PostgreSQL, Sequelize
+    HTML5, CSS3, SASS, JavaScript, React, Redux, NodeJS, NPM, Git, PostgreSQL, Sequelize, Express
 - 📫 Email: MalacalzaMarcelo@gmail.com
 - 📫 LinkedIn: www.linkedin.com/in/marcelo-malacalza
 
