@@ -5,11 +5,11 @@
 
 - ✨ My Tech Skills: 
  
-<img src='./icons8-html-5-48.png'/><img src='./icons8-css3-48.png'/><img src='./icons8-sass-48.png'/><img src='./icons8-javascript-48.png'/><img src='./icons8-reaccionar-40.png'/><img src='./icons8-redux-48.png'/><img src='icons8-nodejs-48.png'/> <img src='./icons8-git-48.png'/><img src='./icons8-postgresql-48.png'/><img src='./sequelize_original_logo_icon_146348.png'/>
+<img src='./icons8-html-5-48.png'/><img src='./icons8-css3-48.png'/><img src='./icons8-viento-de-cola-css-48.png'/><img src='./icons8-javascript-48.png'/><img src='./icons8-mecanografiado-48.png'/><img src='./icons8-reaccionar-40.png'/><img src='./icons8-redux-48.png'/><img src='./icons8-nodejs-48.png'/> <img src='./icons8-git-48.png'/><img src='./icons8-postgresql-48.png'/><img src='./sequelize_original_logo_icon_146348.png'/><img src='./icons8-expresar-js-48.png'/><img src='./icons8-mongo-db-48.png'/>
 
 
 
-    HTML5, CSS3, SASS, JavaScript, React, Redux, NodeJS, Git, PostgreSQL, Sequelize, Express, MongoDB
+    HTML5, CSS3, Tailwind, JavaScript, TypeScript, React, Redux, NodeJS, Git, PostgreSQL, Sequelize, Express, MongoDB
 - 📫 Email: malacalzamarcelo@gmail.com
 - 📫 LinkedIn: www.linkedin.com/in/marcelo-malacalza
 
