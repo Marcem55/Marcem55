@@ -1,15 +1,15 @@
-- 👋 Hola! Mi nombre es Marcelo Malacalza, soy de San Nicolás de los Arroyos, Buenos Aires, Argentina.
-- 👀 Soy desarrollador frontend con 2 años de experiencia, trabajé en una startup de agTech, donde tuve el privilegio de contribuir al desarrollo de soluciones web y móviles utilizando tecnologías como HTML, CSS, JavaScript/TypeScript y React. Además, tengo experiencia generando documentación y artículos de blog utilizando Docusaurus, así como en la implementación de sistemas de logeo a través de Sentry.
-- 💻 Tuve la oportunidad de participar activamente en reuniones con clientes y equipos internos para discutir los detalles y requisitos de los proyectos, con el objetivo de llegar al desarrollo más eficiente posible.
-- 🌱 Reconozco que mis habilidades en el backend necesitan actualización, sin embargo, estoy entusiasmado por continuar aprendiendo y profundizando mis conocimientos en esa área.
+- 👋 Hello! My name is Marcelo Malacalza, I'm from San Nicolás de los Arroyos, Buenos Aires, Argentina.
+- 👀 I'm a frontend developer with 2 years of experience, I worked in an agTech startup, where I had the privilege to contribute to the development of web and mobile solutions using technologies such as HTML, CSS, JavaScript/TypeScript and React. In addition, I have experience generating documentation and blog articles using Docusaurus, as well as implementing logging systems through Sentry.
+- 💻 I had the opportunity to actively participate in meetings with clients and internal teams to discuss project details and requirements, with the goal of arriving at the most efficient development possible.
+- 🌱 I am constantly learning and keeping myself updated to be able to give the best solutions embodied in code.
 
-- ✨ Mis Tech Skills: 
+- ✨ My Tech Skills: 
  
 <img src='./icons8-html-5-48.png'/><img src='./icons8-css3-48.png'/><img src='./icons8-sass-48.png'/><img src='./icons8-javascript-48.png'/><img src='./icons8-reaccionar-40.png'/><img src='./icons8-redux-48.png'/><img src='icons8-nodejs-48.png'/> <img src='./icons8-git-48.png'/><img src='./icons8-postgresql-48.png'/><img src='./sequelize_original_logo_icon_146348.png'/>
 
 
 
-    HTML5, CSS3, SASS, JavaScript, React, Redux, NodeJS, Git, PostgreSQL, Sequelize, Express
+    HTML5, CSS3, SASS, JavaScript, React, Redux, NodeJS, Git, PostgreSQL, Sequelize, Express, MongoDB
 - 📫 Email: malacalzamarcelo@gmail.com
 - 📫 LinkedIn: www.linkedin.com/in/marcelo-malacalza
 
