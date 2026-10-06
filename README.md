@@ -1,17 +1,37 @@
-- 👋 Hello! My name is Marcelo Malacalza, I'm from San Nicolás de los Arroyos, Buenos Aires, Argentina.
-- 👀 I'm a web developer with 2 years of experience, I worked in an agTech startup, where I had the privilege to contribute to the development of web and mobile solutions using technologies such as HTML, CSS, JavaScript/TypeScript and React. In addition, I have experience generating documentation and blog articles using Docusaurus, as well as implementing logging systems through Sentry.
-- 💻 I had the opportunity to actively participate in meetings with clients and internal teams to discuss project details and requirements, with the goal of arriving at the most efficient development possible.
-- 🌱 I am constantly learning and keeping myself updated to be able to give the best solutions embodied in code.
+### 🚀 MARCEM · Soluciones digitales
 
-- ✨ My Tech Skills: 
- 
-<img src='./icons8-html-5-48.png'/><img src='./icons8-css3-48.png'/><img src='./icons8-viento-de-cola-css-48.png'/><img src='./icons8-javascript-48.png'/><img src='./icons8-mecanografiado-48.png'/><img src='./icons8-reaccionar-40.png'/><img src='./icons8-redux-48.png'/><img src='./icons8-nodejs-48.png'/> <img src='./icons8-git-48.png'/><img src='./icons8-postgresql-48.png'/><img src='./sequelize_original_logo_icon_146348.png'/><img src='./icons8-expresar-js-48.png'/><img src='./icons8-mongo-db-48.png'/>
+Ayudo a comercios y profesionales a conseguir más consultas y ordenar su trabajo con soluciones simples y rápidas de entregar: landings, catálogos con pedido por WhatsApp, cotizadores online y sistemas a medida.
 
+👉 [marcem-digital.vercel.app](https://marcem-digital.vercel.app) · Instagram [@marcem.digital](https://instagram.com/marcem.digital) · [WhatsApp](https://wa.me/5493364626434)
 
+---
 
-    HTML5, CSS3, Tailwind, JavaScript, TypeScript, React, Redux, NodeJS, Git, PostgreSQL, Sequelize, Express, MongoDB
+- 👋 ¡Hola! Soy Marcelo Malacalza, de San Nicolás de los Arroyos, Buenos Aires, Argentina.
+
+- 👀 Soy desarrollador web con 2 años de experiencia. Trabajé en una startup agTech, donde participé en el desarrollo de soluciones web y mobile con HTML, CSS, JavaScript/TypeScript y React. También generé documentación y artículos de blog con Docusaurus, e implementé sistemas de registro de errores con Sentry.
+
+- 💻 Participé activamente en reuniones con clientes y equipos internos para definir los detalles y requerimientos de cada proyecto, con el objetivo de llegar al desarrollo más eficiente posible.
+
+- 🌱 Sigo aprendiendo y actualizándome para dar las mejores soluciones, convertidas en código.
+
+- ✨ Tecnologías:
+
+<img src='./icons8-html-5-48.png'/><img src='./icons8-css3-48.png'/><img src='./icons8-viento-de-cola-css-48.png'/><img src='./icons8-javascript-48.png'/><img src='./icons8-mecanografiado-48.png'/><img src='./icons8-reaccionar-40.png'/><img src='./icons8-redux-48.png'/><img src='./icons8-nodejs-48.png'/> <img src='./icons8-git-48.png'/><img src='./icons8-postgresql-48.png'/><img src='./sequelize_original_logo_icon_146348.png'/><img src='./icons8-expresar-js-48.png'/>
+
+```
+HTML5, CSS3, Tailwind, JavaScript, TypeScript, React, Redux, NodeJS, Git, PostgreSQL, Sequelize, Express
+```
+
 - 📫 Email: malacalzamarcelo@gmail.com
-- 📫 LinkedIn: www.linkedin.com/in/marcelo-malacalza
+- 📫 LinkedIn: [www.linkedin.com/in/marcelo-malacalza](https://www.linkedin.com/in/marcelo-malacalza)
+
+### 🚀 MARCEM · Soluciones digitales
+
+Además de desarrollar, ayudo a comercios y profesionales a conseguir más consultas y ordenar su trabajo con soluciones simples y rápidas de entregar: landings, catálogos con pedido por WhatsApp, cotizadores online y sistemas a medida.
+
+👉 [marcem-digital.vercel.app](https://marcem-digital.vercel.app) · Instagram [@marcem.digital](https://instagram.com/marcem.digital) · [WhatsApp](https://wa.me/5493364626434)
+
+---
 
 <!---
 Marcem55/Marcem55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
