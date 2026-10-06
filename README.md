@@ -8,7 +8,7 @@ Ayudo a comercios y profesionales a conseguir más consultas y ordenar su trabaj
 
 - 👋 ¡Hola! Soy Marcelo Malacalza, de San Nicolás de los Arroyos, Buenos Aires, Argentina.
 
-- 👀 Soy desarrollador web con 2 años de experiencia. Trabajé en una startup agTech, donde participé en el desarrollo de soluciones web y mobile con HTML, CSS, JavaScript/TypeScript y React. También generé documentación y artículos de blog con Docusaurus, e implementé sistemas de registro de errores con Sentry.
+- 👀 Soy desarrollador web con 3 años de experiencia. Trabajé en una startup agTech y en la municipalidad de San Nicolás de los Arroyos, donde participé en el desarrollo de soluciones web y mobile con HTML, CSS, JavaScript/TypeScript y React. También generé documentación y artículos de blog con Docusaurus, e implementé sistemas de registro de errores con Sentry.
 
 - 💻 Participé activamente en reuniones con clientes y equipos internos para definir los detalles y requerimientos de cada proyecto, con el objetivo de llegar al desarrollo más eficiente posible.
 
